@@ -5,7 +5,6 @@ layout: homepage
 ## About Me
 
 I am a Ph.D. student in Machine Learning supervised by Prof. Masashi Sugiyama at the University of Tokyo. 
-
 I am currently working on transfer learning, especially using importance weighting for distribution shift problems. 
 
 
