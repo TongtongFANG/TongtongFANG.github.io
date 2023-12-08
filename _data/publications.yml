@@ -16,9 +16,9 @@ main:
     code: https://github.com/TongtongFANG/DIW
     notes: Spotlight
 
-  - title: Rethinking Importance Weighting for Transfer Learning
-    authors: Nan Lu, Tianyi Zhang, <strong>Tongtong Fang</strong>, Takeshi Teshima, Masashi Sugiyama
-    conference_short: Federated and Transfer Learning
-    conference: Federated and Transfer Learning. Cham: Springer International Publishing, 2022. 185-231.
-    pdf: https://arxiv.org/pdf/2112.10157
-    notes: As a book chapter
+  # - title: Rethinking Importance Weighting for Transfer Learning
+  #   authors: Nan Lu, Tianyi Zhang, <strong>Tongtong Fang</strong>, Takeshi Teshima, Masashi Sugiyama
+  #   conference_short: Federated and Transfer Learning
+  #   conference: Federated and Transfer Learning. Cham: Springer International Publishing, 2022. 185-231.
+  #   pdf: https://arxiv.org/pdf/2112.10157
+  #   notes: As a book chapter
