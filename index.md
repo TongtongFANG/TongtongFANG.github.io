@@ -4,14 +4,14 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student supervised by Prof. Masashi Sugiyama at the University of Tokyo. 
-I am currently working on transfer learning, particularly, using importance weighting for distribution shift problems. 
+I am a Ph.D. student in Machine Learning supervised by Prof. Masashi Sugiyama at the University of Tokyo. 
+
+I am currently working on transfer learning, especially using importance weighting for distribution shift problems. 
 
 
 ## Research Interests
 
-- **Transfer Learning:** importance weighting, domain adaptation
-- **Representation learning**
+- **Transfer Learning:** importance weighting, domain adaptation, representation learning
 
 ## News
 
