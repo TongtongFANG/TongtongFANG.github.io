@@ -4,19 +4,18 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at the 
+I am a Ph.D. student supervised by Prof. Masashi Sugiyama at the University of Tokyo. 
+I am currently working on transfer learning, particularly, using importance weighting for distribution shift problems. 
+
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Transfer Learning:** importance weighting, domain adaptation
+- **Representation learning**
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Dec. 2023]** Our paper about generalized importance weighting will be presented at NeurIPS'23 as a spotlight presentation.
 
 {% include_relative _includes/publications.md %}
 
