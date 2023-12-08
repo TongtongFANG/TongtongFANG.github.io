@@ -16,6 +16,5 @@ main:
 
   - title: Rethinking Importance Weighting for Transfer Learning
     authors: Nan Lu, Tianyi Zhang, <strong>Tongtong Fang</strong>, Takeshi Teshima, Masashi Sugiyama
-    conference: Federated and Transfer Learning. <strong>(As a book chapter)</strong>.
+    conference: Federated and Transfer Learning (pp. 185-231), Cham: Springer International Publishing. <strong>(As a book chapter)</strong>.
     pdf: https://arxiv.org/pdf/2112.10157
-    code: https://github.com/TongtongFANG/DIW
