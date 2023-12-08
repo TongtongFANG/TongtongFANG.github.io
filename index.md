@@ -16,6 +16,6 @@ I am currently working on transfer learning, especially using importance weighti
 
 - **[Dec. 2023]** Our paper about generalized importance weighting will be presented at NeurIPS'23 as a spotlight presentation.
 
-{% include_relative _includes/publications.md %}
+#{% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
