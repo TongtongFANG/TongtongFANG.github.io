@@ -1,19 +1,16 @@
 main:
-
   - title: Generalizing Importance Weighting to A Universal Solver for Distribution Shift Problems
     authors: <strong>Tongtong Fang</strong>, Nan Lu, Gang Niu, Masashi Sugiyama
     conference: Thirty-seventh Conference on Neural Information Processing Systems <strong>(NeurIPS 2023)</strong>.
     pdf: https://arxiv.org/pdf/2305.14690
     code: https://github.com/TongtongFANG/GIW
     notes: Spotlight
-
   - title: Rethinking Importance Weighting for Deep Learning under Distribution shift
     authors: <strong>Tongtong Fang*</strong>, Nan Lu*, Gang Niu, Masashi Sugiyama (*Equal contribution)
     conference: Thirty-fourth Conference on Neural Information Processing Systems <strong>(NeurIPS 2020)</strong>.
     pdf: https://proceedings.neurips.cc/paper/2020/file/8b9e7ab295e87570551db122a04c6f7c-Paper.pdf
     code: https://github.com/TongtongFANG/DIW
     notes: Spotlight
-
   - title: Rethinking Importance Weighting for Transfer Learning
     authors: Nan Lu, Tianyi Zhang, <strong>Tongtong Fang</strong>, Takeshi Teshima, Masashi Sugiyama
     conference: Federated and Transfer Learning (pp. 185-231), Springer International Publishing, 2022.
