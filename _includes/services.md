@@ -2,7 +2,7 @@
 
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 <ul style="margin:0 0 5px;">
-ICML, NeurIPS, ICLR, AISTATS, ACML
+<em>ICML</em>, <em>NeurIPS</em>, <em>ICLR</em>, <em>AISTATS</em>, <em>ACML</em>
 </ul>
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
