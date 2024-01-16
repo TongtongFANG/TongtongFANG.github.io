@@ -1,10 +1,7 @@
 <h2 id="publications" style="margin: 0px 0px -35px;">Publications</h2>
-
 <div class="publications">
 <ol class="bibliography">
-
 {% for link in site.data.publications.main %}
-
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;padding-top: -100px">
@@ -43,9 +40,6 @@
   </div>
 </div>
 </li>
-
 {% endfor %}
-
 </ol>
 </div>
-
