@@ -1,4 +1,4 @@
-<h2 id="publications" style="margin: 2px 0px -35px -20px;">Publications</h2>
+<h2 id="publications" style="margin: 2px 0px -35px;">Publications</h2>
 
 <div class="publications">
 <ol class="bibliography">
@@ -7,7 +7,7 @@
 
 <li>
 <div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;padding-top: -100px">
     {% if link.image %} 
     <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
     {% endif %}
