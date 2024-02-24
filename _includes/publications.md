@@ -3,7 +3,7 @@
 <ol class="bibliography">
 {% for link in site.data.publications.main %}
 <li>
-<div class="pub-row">
+<div class="pub-row" style="margin-bottom: 10px;">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px">
     {% if link.image %} 
     <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
@@ -17,7 +17,7 @@
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference }}</em>
       </div>
-    <div class="links" style="margin-bottom: -15px;">
+    <div class="links" style="margin-bottom: -10px;">
       {% if link.pdf %} 
       <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       {% endif %}
