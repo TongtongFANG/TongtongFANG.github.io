@@ -3,11 +3,9 @@ layout: homepage
 ---
 
 ## About Me
-I am a postdoctoral researcher at The Institute of Statistical Mathematics in Tokyo, working with Prof. Kenji Fukumizu. Before that, I received my Ph.D. degree from the University of Tokyo in 2024, under the supervision of Prof. Masashi Sugiyama. 
+I am a postdoctoral researcher at The Institute of Statistical Mathematics in Tokyo, working with Prof. Kenji Fukumizu. 
+Before that, I received my Ph.D. degree from the University of Tokyo in 2024, under the supervision of Prof. Masashi Sugiyama. 
 My research primarily focuses on trustworthy machine learning, with the goal of developing, analyzing, and evaluating learning systems to ensure their safety, reliability, and robustness in real-world applications.
-
-#I am a Ph.D. student in Machine Learning, supervised by Prof. Masashi Sugiyama at the University of Tokyo. 
-#I am currently working on transfer learning, especially using importance weighting for distribution shift problems. 
 
 ## Research Interests
 
