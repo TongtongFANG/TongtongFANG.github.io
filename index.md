@@ -19,7 +19,7 @@ My research primarily focuses on trustworthy machine learning, with the goal of 
 {% include_relative _includes/publications.md %}
 
 ## Experience
-- 2023.04&nbsp;-&nbsp;&nbsp;2025.04   &nbsp; &nbsp; **JSPS Fellow (DC2, PD)**, The Japan Society for the Promotion of Science (JSPS)
+- 2023.04&nbsp;-&nbsp;&nbsp;2025.04   &nbsp; &nbsp; **JSPS Fellow (DC2, PD)**, The Japan Society for the Promotion of Science
 - 2021.11 &nbsp; - &nbsp;2024.08   &nbsp; &nbsp; **Research Assistant**, The University of Tokyo
 - 2018.11 &nbsp; - &nbsp;2019.07   &nbsp; &nbsp; &nbsp;**Research Intern**, RIKEN Center for Advanced Intelligence Project (AIP)  
 
