@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-I am a postdoctoral researcher at The Institute of Statistical Mathematics in Tokyo, working with Prof. Kenji Fukumizu. 
+I am a project assistant professor at The Institute of Statistical Mathematics in Tokyo, working with Prof. Kenji Fukumizu. 
 Before that, I received my Ph.D. degree from The University of Tokyo in 2024, under the supervision of Prof. Masashi Sugiyama. 
 
 My research primarily focuses on trustworthy machine learning, with the goal of developing, analyzing, and evaluating learning systems to ensure their safety, reliability, and robustness in real-world applications.
